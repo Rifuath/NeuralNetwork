@@ -17,6 +17,7 @@ This project implements a basic XOR Neural Network using C. The network consists
 Compile the program using the following command:
 
 gcc -o xor_nn xor_nn.c -lm
+
 ./xor_nn
 
 
